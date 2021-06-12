@@ -1,0 +1,15 @@
+.b-mail {
+    color: white;
+    font-size: 40px;
+    background-color: rgb(31,31,31);
+    padding: 5%;
+    border-radius: 5px;
+}
+
+#m-input {
+    font-size: 30px;
+}
+
+h3 {
+    color: white;
+}
